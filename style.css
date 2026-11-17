@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(142, 228, 195);
+    color: rgb(40, 55, 70);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1{
+    color: black;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    max-width: 400px;
+    margin: 10px auto;
+}
